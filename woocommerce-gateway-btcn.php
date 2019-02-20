@@ -1,12 +1,11 @@
 <?php
 /**
- * Plugin Name: WooCommerce BitcoiNote Payment Gateway Integration
- * Description: Integrates WooCommerce with the BitcoiNote Payment Gateway Service for BTCN payments
+ * Plugin Name: BitcoiNote payment gateway for WooCommerce
+ * Description: Enables users of your WooCommerce site to take BitcoiNote payments when checking out
  * Author: BitcoiNote
  * Author URI: http://www.bitcoinote.org/
  * Version: 1.0.0
  * Text Domain: wc-gateway-btcn
- * Domain Path: /i18n/languages/
  *
  * Copyright: (c) 2019 BitcoiNote Team (support@bitcoinote.org), 2015-2016 SkyVerge, Inc. (info@skyverge.com) and WooCommerce
  *
@@ -21,7 +20,7 @@
  *
  * This online gateway uses the BTCN Payment Gateway Service to enable BTCN payments.
  */
- 
+
 defined( 'ABSPATH' ) or exit;
 
 
