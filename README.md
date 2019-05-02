@@ -1,6 +1,6 @@
 # BTCN Payment Gateway Service Integration for WooCommerce
 
-- Contributors: BitcoiNote Team, skyverge, beka.rice
+- Contributors: bitcoinote, skyverge, beka.rice
 - Tags: btcn, bitcoinote, woocommerce, payment gateway, gateway, manual payment
 - Requires at least: 4.3
 - Tested up to: 5.0.3
